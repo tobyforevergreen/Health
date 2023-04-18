@@ -1,5 +1,5 @@
 
-# Adoption of AI in Healthcare in Nigeria
+# Nigeria: Adoption of AI in Healthcare
 
 Healthcare delivery in Nigeria is being revolutionized by artificial intelligence (AI), which is also making diagnostics more precise and enabling individualized therapy. AI-driven healthcare systems are being used for predictive analytics and to detect diseases earlier and more accurately. AI also makes medical data sharing easier, enabling doctors and other healthcare professionals to better collaborate and improve patient care. Although still in its early phases, Nigeria's use of AI in healthcare has the potential to have a substantial impact on the nation's healthcare industry.
 
